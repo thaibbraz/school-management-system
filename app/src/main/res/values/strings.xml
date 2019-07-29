@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projeto_p2</string>
+    <string name="title_activity_detalhes_aula">DetalhesAulaActivity</string>
+    <string name="textviewNome">TextView</string>
+    <string name="nome">Nome</string>
+    <string name="numero">Numero</string>
+    <string name="adicionarAluno">Button</string>
+    <string name="adicionar">adicionar</string>
+</resources>
