@@ -1,1 +1,1 @@
-Java Project - P2
+Java/Android Project - P2
